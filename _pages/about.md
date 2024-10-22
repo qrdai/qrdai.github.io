@@ -11,7 +11,7 @@ I’m a senior undergraduate student majoring in Artificial Intelligence at Fuda
 
 
 <!-- <details>
-<summary>demo</summary>
+<summary><strong>demo</strong></summary>
 
 **Markdown** content here.
 
@@ -23,7 +23,7 @@ I am enthusiastic about following latest advances and conducting cutting-edge re
 
 
 <details>
-<summary>**1. Data Curation and Synthetic Data.**</summary>
+<summary><strong>Data Curation and Synthetic Data.</strong></summary>
 
 Today’s capable LLMs are powered by automated data curation pipelines, where large-scale datasets synthesized by LLMs themselves play a crucial role. But the prevalent noise and redundancy contained in synthetic datasets haven’t received enough attention. There’s also a lack of understanding on how various properties of synthetic data, including correctness, diversity and generation sources (e.g., real-world, on-policy or off-policy generators) contribute to the LM’s ultimate learning outcome. 
    - Can we build principled data **selection** techniques that not only identify individual data points with favorable properties, but also model the interactions inside a subset of data and their joint influence? 
@@ -35,7 +35,7 @@ Today’s capable LLMs are powered by automated data curation pipelines, where l
 <br>
 
 <details>
-<summary>**2. Data Attribution and Interpretability of Model Behavior.**</summary>
+<summary><strong>Data Attribution and Interpretability of Model Behavior.</strong></summary>
 
 Attributing model behavior to specific training data is of vital importance to the trustworthy deployment of LLMs. But the efficiency of traditional data attribution techniques have become a major bottleneck when it comes to LLM-scale applications. It’s also questionable whether they can be well transferred across models of different sizes and architectures, and generalizable across different tasks and application domains. I’m thus interested in designing a more accessible and generalizable data attribution framework tailored to LLMs, and applying such a framework to promote trustworthy applications of LLMs in various scientific domains.
 
@@ -44,7 +44,7 @@ Attributing model behavior to specific training data is of vital importance to t
 <br>
 
 <details>
-<summary>**3. Data-efficient Learning Algorithms.**</summary>
+<summary><strong>Data-efficient Learning Algorithms.</strong></summary>
 
 The success of current LLMs is a combined accomplishment of multiple learning paradigms, including unsupervised pre-training, supervised post-training (e.g., instruction tuning and preference learning) and inference-time context optimization (e.g., in-context learning and RAG). But it still remains unclear what the language model essentially learns in these learning stages, and how various forms of data contribute differently to each stage. 
    - How can we scientifically study their respective working mechanism? 
@@ -56,7 +56,7 @@ The success of current LLMs is a combined accomplishment of multiple learning pa
 <br>
 
 <details>
-<summary>**4. Datasets for Trustworthy and Efficient Evaluation.**</summary>
+<summary><strong>Datasets for Trustworthy and Efficient Evaluation.</strong></summary>
 
 What cannot be measured, cannot be improved. I aim to improve the evaluation of LLM capabilities from both the perspective of trustworthiness and efficiency.
    - How can we improve the robustness of the same evaluation pipeline across different models and hardware conditions? And how well do current evaluation methods truly reflect the LLM’s performance on the capabilities they benchmark?
