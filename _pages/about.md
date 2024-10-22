@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a senior undergraduate student majoring in Artificial Intelligence at [Fudan University](https://www.fudan.edu.cn/en/), Shanghai. Currently, I work as a research intern at the [Department of Computer Science](https://siebelschool.illinois.edu/) of the [University of Illinois Urbana-Champaign](https://illinois.edu/), fortunately advised by [Prof. Hao Peng](https://haopeng-nlp.github.io/). I also had research internship experience at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Prof. Dequan Wang](https://dequan.wang/) and [Prof. Zhijie Deng](https://thudzj.github.io/), and exchange experience at the [University of California, Davis](https://www.ucdavis.edu/). 
+I’m a senior undergraduate student majoring in Artificial Intelligence at [Fudan University](https://www.fudan.edu.cn/en/), Shanghai. Currently, I work as a research intern at the [Department of Computer Science](https://siebelschool.illinois.edu/) of the [University of Illinois Urbana-Champaign](https://illinois.edu/), fortunately advised by [Prof. Hao Peng](https://haopeng-nlp.github.io/) and [Prof. Jiaqi W. Ma](https://jiaqima.github.io/). Prior to that, I had research internship experience at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Prof. Dequan Wang](https://dequan.wang/) and [Prof. Zhijie Deng](https://thudzj.github.io/), and exchange experience at the [University of California, Davis](https://www.ucdavis.edu/). 
 
 
 <!-- <details>
@@ -77,3 +77,9 @@ What cannot be measured, cannot be improved. I aim to improve the evaluation of 
 - There’s also a trade-off between trustworthy and efficient evaluation. Can we maintain the robustness of evaluation results while reducing the cost of exhaustive runs, possibly by removing noisy and over-represented samples in evaluation datasets?
 
 </details>
+
+
+# News
+**[10/2024]** I’m attending COLM 2024. Excited to see both old and new friends!
+
+**[08/2024]** I gave a [talk](https://trais-lab.github.io/dattri-reading-group/recording/2024/7/) on factual knowledge attribution in LLMs at the [data attribution reading group](https://trais-lab.github.io/dattri-reading-group/) hosted by Prof. Jiaqi W. Ma.
