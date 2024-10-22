@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qirun Dai"
+title                    : "Qirun Dai's Homepage"
 title_separator          : "-"
 name                     : &name "Qirun Dai"
 description              : &description "Undergrad@Fudan. Research Intern@UIUC. Improving training and evaluation of LLMs from a data-centric perspective."
