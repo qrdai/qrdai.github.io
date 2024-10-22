@@ -4,12 +4,12 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<style>
+<!-- <style>
     .bullet::before {
         content: "• "; /* Unicode character for a bullet */
         font-size: 1em; /* Adjust the size as needed */
     }
-</style>
+</style> -->
 
 # Preprints
 
@@ -19,8 +19,8 @@ author_profile: true
     <h3>Demonstration Distillation for Efficient In-Context Learning</h3>
     <p>Tong Chen, <strong>Qirun Dai</strong>, Zhijie Deng, Dequan Wang</p>
     <p><em>Submitted to ICLR 2024</em></p>
-    <p class="bullet">Through meticulous prompt engineering, we develop a training-free framework that leverages multiple LLM agents to iteratively compress the given demonstrations.</p>
-    <p class="bullet">It achieves up to a 4.3x compression ratio and a 5% accuracy improvement on various QA tasks, demonstrating efficacy in reducing computational overheads while boosting inference performance.</p>
+    <p>Through meticulous prompt engineering, we develop a training-free framework that leverages multiple LLM agents to iteratively compress the given demonstrations.</p>
+    <p>It achieves up to a 4.3x compression ratio and a 5% accuracy improvement on various QA tasks, demonstrating efficacy in reducing computational overheads while boosting inference performance.</p>
     <div style="display: flex; margin-top: 20px;">
       <a href="https://openreview.net/forum?id=Y8DClN5ODu" target="_blank" style="text-decoration: none;">
         <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
