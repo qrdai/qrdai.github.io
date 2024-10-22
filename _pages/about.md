@@ -10,37 +10,56 @@ redirect_from:
 I’m a senior undergraduate student majoring in Artificial Intelligence at Fudan University, Shanghai. Currently, I work as a research intern at the University of Illinois Urbana-Champaign, fortunately advised by Prof. Hao Peng. I also had research internship at Shanghai Jiao Tong University under the supervision of Prof. Dequan Wang and Prof. Zhijie Deng, and exchange experience at the University of California, Davis. 
 
 
-<details>
+<!-- <details>
 <summary>demo</summary>
 
 **Markdown** content here.
 
-</details>
+</details> -->
 
 
 # Research Interests
 I am enthusiastic about following latest advances and conducting cutting-edge research in AI, especially at the intersection of natural language processing and machine learning. These days, I have an intense interest in advancing the capabilities as well as our understanding of large language models (LLMs) from a data-centric perspective. Here are a few topics I’ve been thinking and excited about:
 
 
-**Data Curation and Synthetic Data.**
+<details>
+<summary>**1. Data Curation and Synthetic Data.**</summary>
+
 Today’s capable LLMs are powered by automated data curation pipelines, where large-scale datasets synthesized by LLMs themselves play a crucial role. But the prevalent noise and redundancy contained in synthetic datasets haven’t received enough attention. There’s also a lack of understanding on how various properties of synthetic data, including correctness, diversity and generation sources (e.g., real-world, on-policy or off-policy generators) contribute to the LM’s ultimate learning outcome. 
    - Can we build principled data **selection** techniques that not only identify individual data points with favorable properties, but also model the interactions inside a subset of data and their joint influence? 
    - Is it possible that certain human-perceived noise and redundancy in synthetic data are actually beneficial to language models? 
    - In light of this, how can we further design efficient curation pipelines with better quality and diversity control?
 
+</details>
 
-**Data Attribution and Interpretability of Model Behavior.**
-Attributing model behavior to specific training data is of vital importance to the trustworthy deployment of LLMs.  But the efficiency of traditional data attribution techniques have become a major bottleneck when it comes to LLM-scale applications. It’s also questionable whether they can be well transferred across models of different sizes and architectures, and generalizable across different tasks and application domains. I’m thus interested in designing a more accessible and generalizable data attribution framework tailored to LLMs, and applying such a framework to promote trustworthy applications of LLMs in various scientific domains.
+<br>
 
+<details>
+<summary>**2. Data Attribution and Interpretability of Model Behavior.**</summary>
 
-**Data-efficient Learning Algorithms.**
+Attributing model behavior to specific training data is of vital importance to the trustworthy deployment of LLMs. But the efficiency of traditional data attribution techniques have become a major bottleneck when it comes to LLM-scale applications. It’s also questionable whether they can be well transferred across models of different sizes and architectures, and generalizable across different tasks and application domains. I’m thus interested in designing a more accessible and generalizable data attribution framework tailored to LLMs, and applying such a framework to promote trustworthy applications of LLMs in various scientific domains.
+
+</details>
+
+<br>
+
+<details>
+<summary>**3. Data-efficient Learning Algorithms.**</summary>
+
 The success of current LLMs is a combined accomplishment of multiple learning paradigms, including unsupervised pre-training, supervised post-training (e.g., instruction tuning and preference learning) and inference-time context optimization (e.g., in-context learning and RAG). But it still remains unclear what the language model essentially learns in these learning stages, and how various forms of data contribute differently to each stage. 
    - How can we scientifically study their respective working mechanism? 
    - What are the shared and exclusive characteristics of “good” data for different stages? 
    - Can we build algorithms that can utilize data more efficiently given the specific mechanism of each learning stage?
 
+</details>
 
-**Datasets for Trustworthy and Efficient Evaluation.**
+<br>
+
+<details>
+<summary>**4. Datasets for Trustworthy and Efficient Evaluation.**</summary>
+
 What cannot be measured, cannot be improved. I aim to improve the evaluation of LLM capabilities from both the perspective of trustworthiness and efficiency.
    - How can we improve the robustness of the same evaluation pipeline across different models and hardware conditions? And how well do current evaluation methods truly reflect the LLM’s performance on the capabilities they benchmark?
    - There’s also a trade-off between trustworthy and efficient evaluation. Can we maintain the robustness of evaluation results while reducing the cost of exhaustive runs, possibly by removing noisy and over-represented samples in evaluation datasets?
+
+</details>
