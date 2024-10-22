@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+# About Me
 I’m a senior undergraduate student majoring in Artificial Intelligence at [Fudan University](https://www.fudan.edu.cn/en/), Shanghai. Currently, I work as a research intern at the [Department of Computer Science](https://siebelschool.illinois.edu/) of the [University of Illinois Urbana-Champaign](https://illinois.edu/), fortunately advised by [Prof. Hao Peng](https://haopeng-nlp.github.io/) and [Prof. Jiaqi W. Ma](https://jiaqima.github.io/). Prior to that, I had research internship experience at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Prof. Dequan Wang](https://dequan.wang/) and [Prof. Zhijie Deng](https://thudzj.github.io/), and exchange experience at the [University of California, Davis](https://www.ucdavis.edu/). 
 
 
