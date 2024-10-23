@@ -20,7 +20,7 @@ author_profile: true
     <p><strong>Qirun Dai</strong>, Dylan Zhang, Jiaqi W. Ma, Hao Peng</p>
     <p><em>Under Review</em></p>
     <p>When instruction tuning LLMs for learning multiple diverse tasks, we identify the poor performance of data selection methods built upon gradient-based influence estimation techniques, and attribute this problem to an inherent bias in cross-task influence.</p>
-    <p>We then propose BIDS, a simple and effective influence-based <strong>D</strong>ata <strong>S</strong>election algorithm that selects <strong>I</strong>nfluential data for <strong>B</strong>alanced capability learning.</p>
+    <p>We then propose BIDS, a simple and effective influence-based <strong>D</strong>ata <strong>S</strong>election algorithm that addresses this problem and selects <strong>I</strong>nfluential data for <strong>B</strong>alanced capability learning.</p>
     <p>When training on <a href="https://huggingface.co/datasets/openbmb/UltraInteract_sft">UltraInteract</a>, a SOTA high-quality dataset designed to enhance diverse reasoning capabilities, we show that a 15% subset selected by BIDS can outperform full-dataset training in terms of the overall performance on 7 benchmarks spanning coding, math, STEM, logical reasoning and instruction following. We further provide in-depth analyses on what might be the good properties of a balanced set of influential data.</p>
     <div style="display: flex; margin-top: 20px;">
       <a href="{{ site.baseurl }}/files/BIDS-10_13-preprint.pdf" target="_blank" style="text-decoration: none;">

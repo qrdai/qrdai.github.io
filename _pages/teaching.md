@@ -8,7 +8,7 @@ author_profile: true
 
 ## Introduction to Computer Systems (DATA130025) - fall 2024
 
-- Teaching assistant for an undergrad-level course with [Prof. Jiaqing Liang](https://lsdefine.github.io/) at the School of Data Science, Fudan University.
+- **Teaching Assistant** for an undergrad-level course with [Prof. Jiaqing Liang](https://lsdefine.github.io/) at the School of Data Science, Fudan University.
 
 - Prepared tutorials for linux basics, and took charge of two lab assignments related to operating systems: ShellLab and MallocLab. The lab materials were customized based on the project resources of [OSTEP](https://github.com/remzi-arpacidusseau/ostep-projects).
 
