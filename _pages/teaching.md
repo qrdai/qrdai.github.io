@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Teaching
 
-**Introduction to Computer Systems (DATA130025) - fall 2024**
+## Introduction to Computer Systems (DATA130025) - fall 2024
 
 - Teaching assistant for an undergrad-level course with [Prof. Jiaqing Liang](https://lsdefine.github.io/) at the School of Data Science, Fudan University.
 
