@@ -4,43 +4,33 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<!-- <style>
-    .bullet::before {
-        content: "• "; /* Unicode character for a bullet */
-        font-size: 1em; /* Adjust the size as needed */
-    }
-</style> -->
+
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=3sxtK54AAAAJ&hl) profile.
+
+\* denotes equal contributions, and &dagger; denotes equal advising.
+
+
 
 # Preprints
 
 <div style="display: flex; align-items: center; margin-bottom: 50px;">
-  <img src="{{ site.baseurl }}/images/BIDS_stats.png" alt="Image" style="width: 40%; margin-right: 40px;">
+  <img src="{{ site.baseurl }}/images/pubs/jair-dattri_survey.png" alt="Image" style="width: 40%; margin-right: 40px;">
   <div>
-    <h3>Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities</h3>
-    <p><strong>Qirun Dai</strong>, Dylan Zhang, Jiaqi W. Ma, Hao Peng</p>
-    <p><em>Under Review</em></p>
-    <p>When instruction tuning LLMs for learning multiple diverse tasks, we identify the poor performance of data selection methods built upon gradient-based influence estimation techniques, and attribute this problem to an inherent bias in cross-task influence.</p>
-    <p>We then propose BIDS, a <strong>B</strong>alanced and <strong>I</strong>nfluential <strong>D</strong>ata <strong>S</strong>election algorithm that addresses this problem and through instance-level normalization and iterative selection.
-    <p>When training on <a href="https://huggingface.co/datasets/openbmb/UltraInteract_sft">UltraInteract</a>, a SOTA high-quality dataset designed to enhance diverse reasoning capabilities, we show that a 15% subset selected by BIDS can outperform full-dataset training in terms of the overall performance on 7 benchmarks spanning coding, math, STEM, logical reasoning and instruction following. We provide in-depth analyses on what might be the good properties of a balanced set of influential data.</p>
+    <h3>A Survey of Data Attribution: Methods, Applications, and Evaluation in the Era of Generative AI</h3>
+    <p>Junwei Deng*, Yuzheng Hu*, Pingbang Hu*, Ting-Wei Li*, Shixuan Liu*, Jiachen T. Wang, Dan Ley, <strong>Qirun Dai</strong>, Benhao Huang, Jin Huang, Cathy Jiao, Hoang Anh Just, Yijun Pan, Jingyan Shen, Yiwen Tu, Weiyi Wang, Xinhe Wang, Shichang Zhang, Shiyuan Zhang, Ruoxi Jia, Himabindu Lakkaraju, Hao Peng, Weijing Tang, Chenyan Xiong, Jieyu Zhao, Hanghang Tong, Han Zhao, Jiaqi Ma</p>
     <div style="display: flex; margin-top: 20px;">
-      <a href="{{ site.baseurl }}/files/BIDS-v0.3-11_22_2024.pdf" target="_blank" style="text-decoration: none;">
+      <a href="https://hal.science/hal-05230469v1/document" target="_blank" style="text-decoration: none;">
         <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
       </a>
-      <!-- <a href="https://github.com/CTDancer/DGS_Demonstration-Distillation" target="_blank" style="text-decoration: none; margin-left: 10px;">
-        <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Code</button>
-      </a> -->
     </div>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 50px;">
-  <img src="{{ site.baseurl }}/images/DGS.png" alt="Image" style="width: 40%; margin-right: 40px;">
+  <img src="{{ site.baseurl }}/images/pubs/iclr2024-DGS.png" alt="Image" style="width: 40%; margin-right: 40px;">
   <div>
     <h3>Demonstration Distillation for Efficient In-Context Learning</h3>
     <p>Tong Chen, <strong>Qirun Dai</strong>, Zhijie Deng, Dequan Wang</p>
-    <p><em>Submitted to ICLR 2024</em></p>
-    <p>To optimize context efficiency for LLM in-context learning (ICL), we developed DGS, an agentic framework that iteratively compresses demonstrations with three LLM agents: <strong>D</strong>istillist, <strong>G</strong>eneralist and <strong>S</strong>pecialist.</p>
-    <p>DGS achieves up to a 4.3x compression ratio and a 5% accuracy improvement on various QA tasks, showing that overly concise demonstrations under human perception can still be informative for LLMs to learn at inference time, and elicit even stronger reasoning capabilities.</p>
     <div style="display: flex; margin-top: 20px;">
       <a href="https://openreview.net/forum?id=Y8DClN5ODu" target="_blank" style="text-decoration: none;">
         <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
@@ -52,3 +42,51 @@ author_profile: true
   </div>
 </div>
 
+
+
+# Publications
+
+<div style="display: flex; align-items: center; margin-bottom: 50px;">
+  <img src="{{ site.baseurl }}/images/pubs/iclr2026-exec_cf.png" alt="Image" style="width: 40%; margin-right: 40px;">
+  <div>
+    <h3>Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code</h3>
+    <p>Aniket Vashishtha*, <strong>Qirun Dai</strong>*, Hongyuan Mei, Amit Sharma, Chenhao Tan, Hao Peng</p>
+    <p><em>NeurIPS 2025 Workshop: Foundations of Reasoning in Language Models</em></p>
+    <div style="display: flex; margin-top: 20px;">
+      <a href="https://arxiv.org/abs/2510.01539v1/" target="_blank" style="text-decoration: none;">
+        <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
+      </a>
+      <a href="https://github.com/AniketVashishtha/Executable_Counterfactuals" target="_blank" style="text-decoration: none; margin-left: 10px;">
+        <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Code</button>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 50px;">
+  <img src="{{ site.baseurl }}/images/pubs/neurips2025-GRAPE.png" alt="Image" style="width: 40%; margin-right: 40px;">
+  <div>
+    <h3>The Best Instruction-Tuning Data are Those That Fit</h3>
+    <p>Dylan Zhang, <strong>Qirun Dai</strong>, Hao Peng</p>
+    <p><em>NeurIPS 2025 (Spotlight)</em></p>
+    <div style="display: flex; margin-top: 20px;">
+      <a href="https://arxiv.org/abs/2502.04194" target="_blank" style="text-decoration: none;">
+        <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 50px;">
+  <img src="{{ site.baseurl }}/images/pubs/emnlp2025-BIDS.png" alt="Image" style="width: 40%; margin-right: 40px;">
+  <div>
+    <h3>Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities</h3>
+    <p><strong>Qirun Dai</strong>, Dylan Zhang, Jiaqi W Ma, Hao Peng</p>
+    <p><em>Findings of EMNLP 2025</em></p>
+    <div style="display: flex; margin-top: 20px;">
+      <a href="https://arxiv.org/abs/2501.12147" target="_blank" style="text-decoration: none;">
+        <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
+      </a>
+    </div>
+  </div>
+</div>

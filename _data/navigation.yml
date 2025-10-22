@@ -11,7 +11,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching & Services"
     url: /teaching/    
     
   # - title: "Portfolio"
@@ -20,9 +20,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    # url: /cv/
-    url: /files/cv_qrdai-12_01_2024.pdf
+  # - title: "CV"
+  #   url: /files/cv_qrdai-12_01_2024.pdf
     
   # - title: "Guide"
   #   url: /markdown/
