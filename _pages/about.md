@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # About Me
-I am currently a first-year CS PhD student at the [University of Chicago](https://computerscience.uchicago.edu/), advised by [Prof. Chenhao Tan](https://chenhaot.com/). I am a member of the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) lab, and affiliated with the broader [Communication and Intelligence (C&I)](https://ci.cs.uchicago.edu/) group. I have also been working closely with [Prof. Hao Peng](https://haopeng-nlp.github.io/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://cs.illinois.edu/). 
+I am a first-year CS PhD student at the [University of Chicago](https://computerscience.uchicago.edu/), advised by [Prof. Chenhao Tan](https://chenhaot.com/). I am a member of the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) lab, and affiliated with the broader [Communication and Intelligence (C&I)](https://ci.cs.uchicago.edu/) group. I am also working closely with [Prof. Hao Peng](https://haopeng-nlp.github.io/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://cs.illinois.edu/). 
 
 Previously, I received my Bachelor’s degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/en/) in 2025. During my undergraduate study, I was fortunate to intern at UIUC with [Prof. Hao Peng](https://haopeng-nlp.github.io/) and [Prof. Jiaqi W. Ma](https://jiaqima.github.io/), and at Shanghai Jiao Tong University with [Prof. Dequan Wang](https://dequan.wang/).
 
@@ -50,21 +50,21 @@ I am especially interested in training LLMs to (1) proactively explore and disco
 
 # Selected Publications
 
-- **Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**  
+- **Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**<br>
 Aniket Vashishtha*, <strong>Qirun Dai*</strong>, Hongyuan Mei, Amit Sharma, Chenhao Tan, Hao Peng  
 *NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models*  
 [[paper]](https://arxiv.org/abs/2510.01539) [[code]](https://github.com/AniketVashishtha/Executable_Counterfactuals)
 
 <!-- <br> -->
 
-- **The Best Instruction-Tuning Data are Those That Fit**  
+- **The Best Instruction-Tuning Data are Those That Fit**<br>
 Dylan Zhang, **Qirun Dai**, Hao Peng  
 *NeurIPS 2025 (Spotlight)*  
 [[paper]](https://arxiv.org/abs/2502.04194)
 
 <!-- <br> -->
 
-- **Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities**  
+- **Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities**<br>
 **Qirun Dai**, Dylan Zhang, Jiaqi W. Ma, Hao Peng  
 *Findings of EMNLP 2025; ICLR 2025 Workshop on DATA-FM*  
 [[paper]](https://arxiv.org/abs/2501.12147)
