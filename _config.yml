@@ -21,7 +21,7 @@ repository               : "qrdai/qrdai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile-2025_08.jpg"
+  avatar           : "images/profile/profile-2025_08.jpg"
   name             : "Qirun Dai"
   pronouns         : # example: "he/him"  
   bio              : "CS PhD student at UChicago working on data and algorithms for LLM post-training."
