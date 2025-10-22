@@ -50,8 +50,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   <img src="{{ site.baseurl }}/images/pubs/iclr2026-exec_cf.png" alt="Image" style="width: 40%; margin-right: 40px;">
   <div>
     <h3>Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code</h3>
-    <p>Aniket Vashishtha*, <strong>Qirun Dai</strong>*, Hongyuan Mei, Amit Sharma, Chenhao Tan, Hao Peng</p>
-    <p><em>NeurIPS 2025 Workshop: Foundations of Reasoning in Language Models</em></p>
+    <p>Aniket Vashishtha*, <strong>Qirun Dai</strong>*, Hongyuan Mei, Amit Sharma&dagger;, Chenhao Tan&dagger;, Hao Peng&dagger;</p>
+    <p><em>NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models</em></p>
     <div style="display: flex; margin-top: 20px;">
       <a href="https://arxiv.org/abs/2510.01539v1/" target="_blank" style="text-decoration: none;">
         <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
@@ -82,7 +82,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   <div>
     <h3>Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities</h3>
     <p><strong>Qirun Dai</strong>, Dylan Zhang, Jiaqi W Ma, Hao Peng</p>
-    <p><em>Findings of EMNLP 2025</em></p>
+    <p><em>Findings of EMNLP 2025; ICLR 2025 Workshop on DATA-FM</em></p>
     <div style="display: flex; margin-top: 20px;">
       <a href="https://arxiv.org/abs/2501.12147" target="_blank" style="text-decoration: none;">
         <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
