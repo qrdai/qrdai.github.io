@@ -20,6 +20,7 @@ Previously, I received my Bachelor’s degree in Artificial Intelligence from [F
 </details> -->
 
 
+
 # Research Interests
 I am broadly interested in post-training data and algorithms for large language models (LLMs). My current research focuses on the following specific topics:
 
@@ -29,6 +30,7 @@ I am broadly interested in post-training data and algorithms for large language 
 - **Evaluating and advancing complex and composite real-world capabilities of LLMs**.
   I am especially interested in training LLMs to (1) proactively explore and discover, (2) leverage ambiguity in strategic communications, and (3) balance accurate reasoning with controllable creativity.
 
+In the past, I have mainly worked on data-centric topics of post-training, including data selection, data attribution, and data-efficient supervision paradigms. I still enjoy following the latest advances of these data-centric techniques, and am always excited about applying them to achieve my dynamic research goals.
 
 <!-- <details>
 <summary><strong>Extending the generalization scope of reasoning and thinking behaviors of LLMs.</strong></summary>
@@ -45,10 +47,34 @@ I am especially interested in training LLMs to (1) proactively explore and disco
 <br> -->
 
 
+
+# Selected Publications
+
+- **Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**  
+Aniket Vashishtha*, **Qirun Dai***, Hongyuan Mei, Amit Sharma, Chenhao Tan, Hao Peng  
+*NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models*  
+[[paper]](https://arxiv.org/abs/2510.01539)
+
+<br>
+
+- **The Best Instruction-Tuning Data are Those That Fit**  
+Dylan Zhang, **Qirun Dai**, Hao Peng  
+*NeurIPS 2025 (Spotlight)*  
+[[paper]](https://arxiv.org/abs/2502.04194)
+
+<br>
+
+- **Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities**  
+**Qirun Dai**, Dylan Zhang, Jiaqi W Ma, Hao Peng  
+*Findings of EMNLP 2025*  
+[[paper]](https://arxiv.org/abs/2501.12147)
+
+
+
 # News
 **[12/2025]** Attending NeurIPS 2025 and will present my work, GRAPE (spotlight) and Executable Counterfactuals (FoRLM Workshop).
 
-**[09/2025]** Officially started my CS PhD study as an honored member of the CHAI lab and the C&I group.
+**[09/2025]** Officially started my CS PhD study as an honored member of the CHAI lab.
 
 **[09/2025]** One paper accepted by EMNLP 2025 (Findings), and two papers by NeurIPS 2025 (Spotlight & FoRLM Workshop)!
 
