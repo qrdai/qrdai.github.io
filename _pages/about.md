@@ -53,16 +53,16 @@ I am especially interested in training LLMs to (1) proactively explore and disco
 - **Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**  
 Aniket Vashishtha*, **Qirun Dai***, Hongyuan Mei, Amit Sharma, Chenhao Tan, Hao Peng  
 *NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models*  
-[[paper]](https://arxiv.org/abs/2510.01539)
+[[paper]](https://arxiv.org/abs/2510.01539) [[code]](https://github.com/AniketVashishtha/Executable_Counterfactuals)
 
-<br>
+<!-- <br> -->
 
 - **The Best Instruction-Tuning Data are Those That Fit**  
 Dylan Zhang, **Qirun Dai**, Hao Peng  
 *NeurIPS 2025 (Spotlight)*  
 [[paper]](https://arxiv.org/abs/2502.04194)
 
-<br>
+<!-- <br> -->
 
 - **Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities**  
 **Qirun Dai**, Dylan Zhang, Jiaqi W Ma, Hao Peng  
