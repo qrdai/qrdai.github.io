@@ -51,7 +51,7 @@ I am especially interested in training LLMs to (1) proactively explore and disco
 # Selected Publications
 
 - **Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**<br>
-Aniket Vashishtha*, <strong>Qirun Dai*</strong>, Hongyuan Mei, Amit Sharma, Chenhao Tan, Hao Peng  
+Aniket Vashishtha*, <strong>Qirun Dai*</strong>, Hongyuan Mei, Amit Sharma&dagger;, Chenhao Tan&dagger;, Hao Peng&dagger;  
 *NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models*  
 [[paper]](https://arxiv.org/abs/2510.01539) [[code]](https://github.com/AniketVashishtha/Executable_Counterfactuals)
 
