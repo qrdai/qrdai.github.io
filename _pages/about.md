@@ -27,7 +27,7 @@ I am broadly interested in training data and algorithms for **large language mod
 - **Extending the generalization scope of their reasoning and thinking behaviors**. 
   I believe that genuine thoughtful reasoning should be a robust behavior that can **transfer** to versatile domains (e.g., philosophical and social science writing) and formalisms (e.g., causal reasoning, agentic reasoning, continual learning, etc.), but the current math-centered post-training paradigm makes LLMs struggle towards this goal.
 
-- **Evaluating and improving their complex and composite real-world capabilities**.
+- **Evaluating and improving their complex, composite but underexplored real-world capabilities**.
   I am especially interested in training LLMs to (1) proactively explore and discover, (2) leverage ambiguity in strategic communications, and (3) balance accurate reasoning with controllable creativity.
 
 - **Data foundations throughout the lifecycle of language-centered AI**.
@@ -37,9 +37,11 @@ I am broadly interested in training data and algorithms for **large language mod
 
 # Selected Publications
 
+\* denotes equal contributions, and &dagger; denotes equal advising.
+
 - **Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**<br>
 Aniket Vashishtha*, <strong>Qirun Dai*</strong>, Hongyuan Mei, Amit Sharma&dagger;, Chenhao Tan&dagger;, Hao Peng&dagger;  
-*NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models*  
+*ICLR 2026; NeurIPS 2025 Workshop on FoRLM*
 [[paper]](https://arxiv.org/abs/2510.01539) [[code]](https://github.com/AniketVashishtha/Executable_Counterfactuals)
 
 <!-- <br> -->
@@ -59,6 +61,8 @@ Dylan Zhang, **Qirun Dai**, Hao Peng
 
 
 # News
+**[01/2026]** One paper accepted by ICLR 2026! Check out how Executable Counterfactuals fills the gap in counterfactual reasoning evaluation by operationalizing abduction with verifiable supervision.
+
 **[12/2025]** Attending NeurIPS 2025 and will present my work, GRAPE (Spotlight) and Executable Counterfactuals (FoRLM Workshop).
 
 **[09/2025]** Officially started my CS PhD study as an honored member of the CHAI lab.

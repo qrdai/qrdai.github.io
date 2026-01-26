@@ -51,7 +51,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   <div>
     <h3>Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code</h3>
     <p>Aniket Vashishtha*, <strong>Qirun Dai</strong>*, Hongyuan Mei, Amit Sharma&dagger;, Chenhao Tan&dagger;, Hao Peng&dagger;</p>
-    <p><em>NeurIPS 2025 Workshop on Foundations of Reasoning in Language Models</em></p>
+    <p><em>ICLR 2026; NeurIPS 2025 Workshop on FoRLM</em></p>
     <div style="display: flex; margin-top: 20px;">
       <a href="https://arxiv.org/abs/2510.01539v1/" target="_blank" style="text-decoration: none;">
         <button style="background-color: white; border: 1px solid #ccc; border-radius: 10px; padding: 8px 40px; font-size: 14px; cursor: pointer;">Paper</button>
