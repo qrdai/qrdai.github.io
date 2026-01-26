@@ -25,7 +25,7 @@ Previously, I received my Bachelor’s degree in Artificial Intelligence from [F
 I am broadly interested in training data and algorithms for **large language models (LLMs)**. My current research focuses on:
 
 - **Extending the generalization scope of their reasoning and thinking behaviors**. 
-  I believe that genuine thoughtful reasoning should be a robust behavior that can transfer to versatile domains (e.g., philosophical and social science writing) and formalisms (e.g., causal reasoning, agentic reasoning, continual learning, etc.), but the current math-centered post-training paradigm makes LLMs struggle towards this goal.
+  I believe that genuine thoughtful reasoning should be a robust behavior that can **transfer** to versatile domains (e.g., philosophical and social science writing) and formalisms (e.g., causal reasoning, agentic reasoning, continual learning, etc.), but the current math-centered post-training paradigm makes LLMs struggle towards this goal.
 
 - **Evaluating and improving their complex and composite real-world capabilities**.
   I am especially interested in training LLMs to (1) proactively explore and discover, (2) leverage ambiguity in strategic communications, and (3) balance accurate reasoning with controllable creativity.
