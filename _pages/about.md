@@ -41,7 +41,7 @@ I am broadly interested in training data and algorithms for **large language mod
 
 - **Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**<br>
 Aniket Vashishtha*, <strong>Qirun Dai*</strong>, Hongyuan Mei, Amit Sharma&dagger;, Chenhao Tan&dagger;, Hao Peng&dagger;  
-*ICLR 2026; NeurIPS 2025 Workshop on FoRLM*
+*ICLR 2026; NeurIPS 2025 Workshop on FoRLM*  
 [[paper]](https://arxiv.org/abs/2510.01539) [[code]](https://github.com/AniketVashishtha/Executable_Counterfactuals)
 
 <!-- <br> -->
