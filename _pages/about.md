@@ -22,29 +22,16 @@ Previously, I received my Bachelor’s degree in Artificial Intelligence from [F
 
 
 # Research Interests
-I am broadly interested in post-training data and algorithms for large language models (LLMs). My current research focuses on the following specific topics:
+I am broadly interested in training data and algorithms for **large language models (LLMs)**. My current research focuses on:
 
-- **Extending the generalization scope of reasoning and thinking behaviors of LLMs**. 
-  I believe that genuine thoughtful reasoning should be a robust behavior that can transfer to versatile domains (e.g., philosophical and social science writing) and formalisms (e.g., Bayesian and causal reasoning), but the current math-centered post-training paradigm struggles towards this goal.
+- **Extending the generalization scope of their reasoning and thinking behaviors**. 
+  I believe that genuine thoughtful reasoning should be a robust behavior that can transfer to versatile domains (e.g., philosophical and social science writing) and formalisms (e.g., causal reasoning, agentic reasoning, continual learning, etc.), but the current math-centered post-training paradigm makes LLMs struggle towards this goal.
 
-- **Evaluating and advancing complex and composite real-world capabilities of LLMs**.
+- **Evaluating and improving their complex and composite real-world capabilities**.
   I am especially interested in training LLMs to (1) proactively explore and discover, (2) leverage ambiguity in strategic communications, and (3) balance accurate reasoning with controllable creativity.
 
-In the past, I have mainly worked on data-centric topics of post-training, including **data selection**, **data attribution**, and **data-efficient supervision paradigms**. I still enjoy following the latest advances of these data-centric techniques, and am always excited about applying them to achieve my dynamic research goals.
-
-<!-- <details>
-<summary><strong>Extending the generalization scope of reasoning and thinking behaviors of LLMs.</strong></summary>
-I believe that genuine thoughtful reasoning should be a robust behavior that can transfer to versatile domains (e.g., philosophical and social science writing) and formalisms (e.g., Bayesian and causal reasoning), but the current math-centered post-training paradigm struggles towards this goal.
-</details>
-
-<br>
-
-<details>
-<summary><strong>Evaluating and advancing complex and composite real-world capabilities of LLMs.</strong></summary>
-I am especially interested in training LLMs to (1) proactively explore and discover, (2) leverage ambiguity in strategic communications, and (3) balance accurate reasoning with controllable creativity.
-</details>
-
-<br> -->
+- **Data foundations throughout the lifecycle of language-centered AI**.
+  I am always fascinated by the role of data in shaping model behaviors, with a consistent interest in data curation, selection, attribution, and data-efficient supervision paradigms, especially in but not limited to the language modality.
 
 
 
