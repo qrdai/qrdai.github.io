@@ -33,4 +33,4 @@ The [Data Attribution Reading Group](https://trais-lab.github.io/dattri-reading-
 
 # Academic Services
 
-- **Reviewer:** ICML (2025); ICLR ([DATA-FM](https://data-fm-iclr2026.github.io/) 2026); ARR (2026)
+- **Reviewer:** ICML (2025); ICLR ([DATA-FM 2026](https://data-fm-iclr2026.github.io/)); ARR (2026)
