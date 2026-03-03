@@ -6,6 +6,9 @@ author_profile: true
 ---
 # Teaching
 
+- **[Natural Language Processing](https://uchicago-nlp-course.github.io/)**<br>
+TA at the University of Chicago, Winter 2026
+
 - **Introduction to Computer Systems**<br>
 TA at Fudan University, Fall 2024
 
@@ -30,5 +33,4 @@ The [Data Attribution Reading Group](https://trais-lab.github.io/dattri-reading-
 
 # Academic Services
 
-- **Reviewer:** ICML (2025)
-
+- **Reviewer:** ICML (2025); ICLR ([DATA-FM](https://data-fm-iclr2026.github.io/) 2026); ARR (2026)
